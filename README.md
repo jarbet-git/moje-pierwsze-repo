@@ -1,4 +1,4 @@
-# Moje pierwsze repozytorium
+# Zmiana z ga³êzi main
 
 To jest moje pierwsze repozytorium utworzone na platformie **GitHub**.
 
