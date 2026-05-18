@@ -19,3 +19,6 @@ Na tym etapie projekt nie zawiera jeszcze kodu źródłowego.
 ## Autor
 
 *Moje pierwsze ćwiczenie z GitHubem.*
+
+## Opis projektu
+To repozytorium s�u�y do nauki podstaw pracy z Git, GitHub, branchami, merge i rebase.
