@@ -1,4 +1,4 @@
-# Moje pierwsze repozytorium
+# Zmiana z ga³êzi feature/conflict-demo
 
 To jest moje pierwsze repozytorium utworzone na platformie **GitHub**.
 
