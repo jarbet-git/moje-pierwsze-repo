@@ -23,3 +23,5 @@ Na tym etapie projekt nie zawiera jeszcze kodu źródłowego.
 ## Opis projektu
 
 To repozytorium służy do nauki podstaw pracy z Git, GitHub, branchami, merge i rebase.
+## Dokumentacja tymczasowa
+Ta zmiana zostanie cofni�ta za pomoc� reset soft.
