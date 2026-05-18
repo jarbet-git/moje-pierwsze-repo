@@ -1,4 +1,4 @@
-# Zmiana z ga≥Ízi main
+# Moje pierwsze repozytorium - konflikt rozwiƒÖzany
 
 To jest moje pierwsze repozytorium utworzone na platformie **GitHub**.
 
@@ -21,4 +21,5 @@ Na tym etapie projekt nie zawiera jeszcze kodu ≈∫r√≥d≈Çowego.
 *Moje pierwsze ƒáwiczenie z GitHubem.*
 
 ## Opis projektu
-To repozytorium s≥uøy do nauki podstaw pracy z Git, GitHub, branchami, merge i rebase.
+
+To repozytorium s≈Çu≈ºy do nauki podstaw pracy z Git, GitHub, branchami, merge i rebase.
